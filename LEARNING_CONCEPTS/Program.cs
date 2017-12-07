@@ -7,14 +7,14 @@
 			// **********
 			//Person P1;
 
-			//P1.Age = 20; // Error!
+			//P1.Age = 20; // Compile Error!
 			// **********
 
 			// **********
-			Person P1;
-			P1 = new Person();
+			//Person P1;
+			//P1 = new Person();
 
-			P1.ShowInfo();
+			//P1.ShowInfo();
 			// **********
 
 			// **********
