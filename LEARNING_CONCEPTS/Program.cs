@@ -5,81 +5,96 @@
 		static void Main(string[] args)
 		{
 			// **********
-			//Person P1;
+			//Person p1;
 
-			//P1.Age = 20; // Compile Error!
+			//p1.Age = 20; // Compile Error!
 			// **********
 
 			// **********
-			//Person P1;
-			//P1 = new Person();
+			//Person p1;
+			//p1 = new Person();
 
-			//P1.ShowInfo();
+			//p1.ShowInfo();
 			// **********
 
 			// **********
-			//Person P1 = new Person();
+			//Person p1 = new Person();
 
-			//P1.ShowInfo();
+			//p1.ShowInfo();
 			// **********
 
 			// **********
-			//Person P1 = new Person();
+			//Person p1 = new Person();
 
-			//P1.Age = 20;
-			//P1.FullName = "Ali Reza Alavi";
+			//p1.Age = 20;
+			//p1.FullName = "Ali Reza Alavi";
 
-			//P1.ShowInfo();
+			//p1.ShowInfo();
 			// **********
 
 			// **********
-			//Person P1 = new Person();
+			//Person p1 = new Person();
 
-			//P1.Age = 20;
-			//P1.FullName = "Ali Reza Alavi";
+			//p1.Age = 20;
+			//p1.FullName = "Ali Reza Alavi";
 
-			//P1.ShowInfo();
+			//p1.ShowInfo();
 
-			//Person P2 = new Person();
+			//Person p2 = new Person();
 
-			//P2.Age = 30;
+			//p2.Age = 30;
 			//P2.FullName = "Sara Ahmadi";
 
-			//P1.ShowInfo();
+			//p1.ShowInfo();
 			// **********
 
 			// **********
-			//Person P1 = new Person();
+			//Person p1 = new Person();
 
-			//P1.Age = 20;
-			//P1.FullName = "Ali Reza Alavi";
+			//p1.Age = 20;
+			//p1.FullName = "Ali Reza Alavi";
 
-			//P1.ShowInfo();
+			//p1.ShowInfo();
 
-			//Person P2 = new Person();
+			//Person p2 = new Person();
 
-			//P2 = P1;
+			//p2 = p1;
 
-			//P2.Age = 30;
+			//p2.Age = 30;
 
-			//P1.ShowInfo();
+			//p1.ShowInfo();
 			// **********
 
 			// **********
-			//Person P1 = new Person();
+			//Person p1 = new Person();
 
-			//P1.Age = 20;
-			//P1.FullName = "Ali Reza Alavi";
+			//p1.Age = 20;
+			//p1.FullName = "Ali Reza Alavi";
 
-			//P1.ShowInfo();
+			//p1.ShowInfo();
 
-			//Person P2;
+			//Person p2;
 
-			//P2 = P1;
+			//p2 = p1;
 
-			//P2.Age = 30;
+			//p2.Age = 30;
 
-			//P1.ShowInfo();
+			//p1.ShowInfo();
+			// **********
+
+			// **********
+			//Person p1 = new Person();
+
+			//p1.Age = 20;
+			//p1.FullName = "Ali Reza Alavi";
+
+			//p1.ShowInfo();
+
+			//Person p2 = p1;
+
+			//p2.Age = 30;
+
+			//p1.ShowInfo();
 			// **********
 
 			System.Console.Write("Press [ENTER] To Exit...");
