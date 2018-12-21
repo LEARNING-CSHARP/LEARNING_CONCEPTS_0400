@@ -117,7 +117,7 @@
 			//person p4 = p1;
 			// **********
 
-			System.Console.Write("Press [ENTER] To Exit...");
+			System.Console.Write("Press [ENTER] To Exit... ");
 			System.Console.ReadLine();
 		}
 	}

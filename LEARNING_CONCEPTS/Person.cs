@@ -7,7 +7,10 @@
 
 		public void ShowInfo()
 		{
-			System.Console.WriteLine($"I'm { FullName } and { Age } years old.");
+			string result =
+				$"I'm { FullName } and { Age } years old.";
+
+			System.Console.WriteLine(result);
 		}
 	}
 }
