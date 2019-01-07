@@ -5,7 +5,7 @@
 		public int Age;
 		public string FullName;
 
-		public void ShowInfo()
+		public void ShowInformationrmation()
 		{
 			string result =
 				$"I'm { FullName } and { Age } years old.";

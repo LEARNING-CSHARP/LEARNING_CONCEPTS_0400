@@ -14,13 +14,13 @@
 			//Person p;
 			//p = new Person();
 
-			//p.ShowInfo();
+			//p.ShowInformation();
 			// **********
 
 			// **********
 			//Person p = new Person();
 
-			//p.ShowInfo();
+			//p.ShowInformation();
 			// **********
 
 			// **********
@@ -29,7 +29,7 @@
 			//p.Age = 20;
 			//p.FullName = "Ali Reza Alavi";
 
-			//p.ShowInfo();
+			//p.ShowInformation();
 			// **********
 
 			// **********
@@ -39,7 +39,7 @@
 			//p1.Age = 20;
 			//p1.FullName = "Ali Reza Alavi";
 
-			//p1.ShowInfo();
+			//p1.ShowInformation();
 
 			//Person p2;
 			//p2 = new Person();
@@ -47,7 +47,7 @@
 			//p2.Age = 30;
 			//P2.FullName = "Sara Ahmadi";
 
-			//p2.ShowInfo();
+			//p2.ShowInformation();
 			// **********
 
 			// **********
@@ -57,7 +57,7 @@
 			//p1.Age = 20;
 			//p1.FullName = "Ali Reza Alavi";
 
-			//p1.ShowInfo();
+			//p1.ShowInformation();
 
 			//Person p2;
 			//p2 = new Person();
@@ -66,7 +66,7 @@
 
 			//p2.Age = 30;
 
-			//p1.ShowInfo();
+			//p1.ShowInformation();
 			// **********
 
 			// **********
@@ -76,14 +76,14 @@
 			//p1.Age = 20;
 			//p1.FullName = "Ali Reza Alavi";
 
-			//p1.ShowInfo();
+			//p1.ShowInformation();
 
 			//Person p2;
 			//p2 = p1;
 
 			//p2.Age = 30;
 
-			//p1.ShowInfo();
+			//p1.ShowInformation();
 			// **********
 
 			// **********
@@ -93,14 +93,14 @@
 			//p1.Age = 20;
 			//p1.FullName = "Ali Reza Alavi";
 
-			//p1.ShowInfo();
+			//p1.ShowInformation();
 
 			//Person p2;
 			//p2 = p1;
 
 			//p2.Age = 30;
 
-			//p1.ShowInfo();
+			//p1.ShowInformation();
 
 			//p2 = null;
 
