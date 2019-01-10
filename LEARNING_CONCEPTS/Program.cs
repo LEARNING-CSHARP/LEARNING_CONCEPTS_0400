@@ -105,6 +105,7 @@
 			//p2 = null;
 
 			//p2.Age = 40; // Runtime Error!
+			//p2.ShowInformation; // Runtime Error!
 			// **********
 
 			// **********

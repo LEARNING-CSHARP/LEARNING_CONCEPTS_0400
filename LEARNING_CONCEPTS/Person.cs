@@ -3,9 +3,10 @@
 	public class Person
 	{
 		public int Age;
+
 		public string FullName;
 
-		public void ShowInformationrmation()
+		public void ShowInformation()
 		{
 			string result =
 				$"I'm { FullName } and { Age } years old.";
