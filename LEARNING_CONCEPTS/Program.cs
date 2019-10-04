@@ -118,8 +118,24 @@
 			//person p4 = p1;
 			// **********
 
+			// **********
+			Person p = new Person();
+			p.Age = 20;
+			p.FullName = "Ali Reza Alavi";
+			p.ShowInformation();
+
+			IncreasePersonAge(p);
+
+			p.ShowInformation();
+			// **********
+
 			System.Console.Write("Press [ENTER] To Exit... ");
 			System.Console.ReadLine();
+		}
+
+		public static void IncreasePersonAge(Person person)
+		{
+			person.Age++;
 		}
 	}
 }
