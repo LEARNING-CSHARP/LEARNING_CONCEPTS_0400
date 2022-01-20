@@ -8,6 +8,9 @@
 
 		public void ShowInformation()
 		{
+			//System.Console.WriteLine
+			//	($"I'm { FullName } and { Age } years old.");
+
 			string result =
 				$"I'm { FullName } and { Age } years old.";
 
