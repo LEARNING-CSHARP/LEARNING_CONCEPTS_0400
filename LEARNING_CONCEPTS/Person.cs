@@ -9,12 +9,12 @@
 		public void ShowInformation()
 		{
 			//System.Console.WriteLine
-			//	($"I'm { FullName } and { Age } years old.");
+			//	(value: $"I'm {FullName} and {Age} years old.");
 
 			string result =
-				$"I'm { FullName } and { Age } years old.";
+				$"I'm {FullName} and {Age} years old.";
 
-			System.Console.WriteLine(result);
+			System.Console.WriteLine(value: result);
 		}
 	}
 }
